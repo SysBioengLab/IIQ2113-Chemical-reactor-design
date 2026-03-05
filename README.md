@@ -1,2 +1,5 @@
-# IIQ2113-Chemical-reactor-design
-Tutorials and coursework material of the Chemical Reactor Design course (2025-2)
+# Repositorio del curso de Diseño de Reactores (IIQ2113)
+
+Profesora: Elodie Blanco
+Ayudante: Gabriel Miranda
+
